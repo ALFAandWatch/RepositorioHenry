@@ -1,0 +1,26 @@
+/*.fondo {
+	background-color: red;
+}*/
+
+.miTexto {
+	font-size: 20px;
+	color: green;
+	width: 75vw;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  margin: 20px;
+}
+.myHeader{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.section1{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
